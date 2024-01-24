@@ -1,5 +1,5 @@
 # SG_segmentation
-# These pipelines have been developed to segment granules in U-2OS cells by fluorescence microscopy. 
+# These pipelines have been developed to segment granules in U-2OS cells imaged by fluorescence microscopy. 
 
 
 #G3BP_granules.cpproj is a CellProfiler pipeline designed for the segmentation on single cells and stress granules from live-cell fluorescence imaging.
